@@ -236,7 +236,7 @@ function Header() {
               </a>
             </Description>
             <a
-              href="https://secure.webrez.com/Bookings105/activity-edit.html?table=hotels&listing_id=3027&mode=command&command=website_availabilitycalendar&hotel_id=3027"
+              href="https://www.airbnb.ca/rooms/51885141"
               target="_blank"
               style={{ textDecoration: `none` }}
             >
@@ -244,7 +244,7 @@ function Header() {
             </a>
           </MainTextContainer>
           <a
-            href="https://secure.webrez.com/Bookings105/activity-edit.html?table=hotels&listing_id=3027&mode=command&command=website_availabilitycalendar&hotel_id=3027"
+            href="https://www.airbnb.ca/rooms/51885141"
             target="_blank"
             style={{ textDecoration: `none` }}
           >
